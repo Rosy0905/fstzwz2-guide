@@ -7,7 +7,7 @@
 - `封神太子外传2攻略全书.md`：Markdown 源文档
 
 ## 在线阅读
-GitHub Pages 开启后补充链接。
+https://rosy0905.github.io/fstzwz2-guide/
 
 ## 内容结构
 共 11 章、221 张数据表，含人物解析、装备合成、技能法宝、关卡掉落、问答库等。
